@@ -51,6 +51,8 @@ The original author of this extension is "saucettv". This extension will always 
 - v5.5.3 [firefox only]
     - `added unique extension ID to manifest`
     - `linked to Mozilla Add-Ons listing`
+- v5.7.0
+    - \[CHROME ONLY\] `Added Adblock-Timer` (thanks to [@GODrums](https://github.com/GODrums))
 
 ## Credits
 - [@saucettv](https://github.com/saucettv) (original Author)
