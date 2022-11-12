@@ -17,7 +17,7 @@ The original author of this extension is "saucettv". This extension will always 
     - Please raise functional issues upstream unless such issues were caused by modifications to this fork
 
 ## Available Browsers
-- [Firefox](https://github.com/single-right-quote/VideoAdBlockForTwitchNoPepe/releases)
+- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/twitch-adblock-no-pepe/)
 - [Chrome](https://github.com/single-right-quote/VideoAdBlockForTwitchNoPepe#manual-installation-steps-for-chrome)
 
 ## Manual Installation Steps for Chrome
@@ -48,6 +48,9 @@ The original author of this extension is "saucettv". This extension will always 
     - `transitioned to linear commit history`
     - `updated UI, and README and manifest, for fork`
     - `fixed incorrectly linking to upstream in popup`
+- v5.5.3 [firefox only]
+    - `added unique extension ID to manifest`
+    - `linked to Mozilla Add-Ons listing`
 
 ## Credits
 - [@saucettv](https://github.com/saucettv) (original Author)
